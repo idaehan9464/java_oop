@@ -7,6 +7,8 @@ public class Test2 {
 		System.out.println("GitHub 연습입니다...");
 		
 		System.out.println("GitHub 수업");
+		
+		System.out.println("주인 내용 추가...");
 	}
 
 }
